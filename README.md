@@ -26,6 +26,6 @@ Goals
 
 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sabreen-ameenudeen-a18a1b373
-- GitHub: Sabreen2007-s
+- GitHub: https://github.com/Sabreen2007-s
 
 Learning, Building and Growing!
